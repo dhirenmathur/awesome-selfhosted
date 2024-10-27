@@ -1795,6 +1795,7 @@ _Related: [Software Development - Low Code](#software-development---low-code)_
 - [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs/Docker`
 - [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
 - [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code](https://github.com/muety/wakapi)) `GPL-3.0` `Go/Docker`
+- [Potpie](https://potpie.ai/) - Use Potpie's codebase agents to ask questions, debug, test, and plan development or build your own purpose-built code aware agents in minutes. ([Source Code](https://github.com/potpie-ai/potpie)) `Apache-2.0` `Python/Docker`
 
 
 ### Software Development - Localization
